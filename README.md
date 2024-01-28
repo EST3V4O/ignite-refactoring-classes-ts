@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Desafio proposto pela [Rocketseat](https://www.rocketseat.com.br/) na ReactJs do Ignite, para a trocar os components de `JavaScript` para `Typescript`
+Desafio proposto pela [Rocketseat](https://www.rocketseat.com.br/) na trilha ReactJs do Ignite, para a trocar os components de `JavaScript` para `Typescript`
 
 ## ✨ Tecnologias
 
